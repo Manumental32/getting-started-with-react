@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Manumental32/getting-started-with-react/static/css/main.53574754.chunk.css",
+    "main.js": "/Manumental32/getting-started-with-react/static/js/main.17db5288.chunk.js",
+    "main.js.map": "/Manumental32/getting-started-with-react/static/js/main.17db5288.chunk.js.map",
+    "runtime-main.js": "/Manumental32/getting-started-with-react/static/js/runtime-main.ef36f626.js",
+    "runtime-main.js.map": "/Manumental32/getting-started-with-react/static/js/runtime-main.ef36f626.js.map",
+    "static/js/2.ca98edaa.chunk.js": "/Manumental32/getting-started-with-react/static/js/2.ca98edaa.chunk.js",
+    "static/js/2.ca98edaa.chunk.js.map": "/Manumental32/getting-started-with-react/static/js/2.ca98edaa.chunk.js.map",
+    "index.html": "/Manumental32/getting-started-with-react/index.html",
+    "precache-manifest.ff42326246cc4476c132f3326f3ad322.js": "/Manumental32/getting-started-with-react/precache-manifest.ff42326246cc4476c132f3326f3ad322.js",
+    "service-worker.js": "/Manumental32/getting-started-with-react/service-worker.js",
+    "static/css/main.53574754.chunk.css.map": "/Manumental32/getting-started-with-react/static/css/main.53574754.chunk.css.map",
+    "static/js/2.ca98edaa.chunk.js.LICENSE.txt": "/Manumental32/getting-started-with-react/static/js/2.ca98edaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef36f626.js",
+    "static/js/2.ca98edaa.chunk.js",
+    "static/css/main.53574754.chunk.css",
+    "static/js/main.17db5288.chunk.js"
+  ]
+}
