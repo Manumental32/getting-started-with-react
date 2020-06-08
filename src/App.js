@@ -29,8 +29,9 @@ export class App extends React.Component {
         
         return (
             <div className="container">
+                <h1> Empezando con react! Mi primer tabla, form y fetch </h1>
                 <GetWikipediaApi />
-                <h1> Tabla </h1>
+                <hr></hr> 
                 <Table characterData={characters} removeCharacter={this.removeCharacter} />
                 <Form handleSubmit={this.handleSubmit}/>  
             </div>
